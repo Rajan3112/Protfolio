@@ -1,0 +1,22 @@
+*body {
+    font-family: Arial, sans-serif;
+    background-color: #944f4f;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url('your-image.jpg');
+    background-size: cover;
+    text-align: center;
+    color: rgb(185, 24, 64);
+    padding: 100px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+section {
+    padding: 40px;
+}
